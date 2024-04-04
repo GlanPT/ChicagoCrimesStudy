@@ -1,7 +1,7 @@
 # 🕵️‍♂️Chicago Crimes Machine Learning Project
 
 ## Overview
-This project utilizes machine learning techniques to analyze the Chicago Crimes dataset. The dataset contains information about various crimes reported in the city of Chicago, including details such as location, type of crime, date, and time. By applying machine learning algorithms to this dataset, we aim to gain insights into crime patterns, predict future occurrences, and assist law enforcement agencies in allocating resources effectively.
+This project utilizes machine learning techniques to analyze the Chicago Crimes dataset. The dataset contains information about various crimes reported in the city of Chicago, including details such as location, type of crime, date, and time. By applying machine learning algorithms to this dataset, we aim to gain insights into crime patterns, predict future occurrences.
 
 ## 📔Dataset
 The Chicago Crimes dataset used in this project is publicly available and can be accessed from [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2). It includes millions of records spanning several years, making it suitable for extensive analysis and modeling.

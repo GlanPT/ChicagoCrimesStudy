@@ -7,7 +7,7 @@ This project utilizes machine learning techniques to analyze the Chicago Crimes 
 The Chicago Crimes dataset used in this project is publicly available and can be accessed from [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2). It includes millions of records spanning several years, making it suitable for extensive analysis and modeling.
 In this project was used a version from the year 2007.
 
-##🎯 Objectives
+## 🎯 Objectives
 - **Exploratory Data Analysis (EDA)**: Perform exploratory analysis to understand the characteristics of the dataset, identify trends, and visualize patterns.
 - **Feature Engineering**: Preprocess the data, extract relevant features, and prepare it for machine learning algorithms.
 - **Model Development**: Train machine learning models to predict various aspects of crime, such as crime type, location, and time.
